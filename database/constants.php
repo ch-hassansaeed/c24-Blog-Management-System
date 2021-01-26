@@ -4,7 +4,7 @@ session_start();
 define("HOST","localhost");
 define("USER","root");
 define("PASS","");
-define("DB","check24_blog");
+define("DB","c24_blog_db");
 
 define("DOMAIN","http://localhost:86/check24_blog");
 
