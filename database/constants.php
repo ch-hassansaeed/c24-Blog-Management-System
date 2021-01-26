@@ -6,7 +6,7 @@ define("USER","root");
 define("PASS","");
 define("DB","c24_blog_db");
 
-define("DOMAIN","http://localhost:86/check24_blog");
+define("DOMAIN","http://localhost:86/c24_blog");
 
 $filepath = realpath(dirname(__FILE__));
 $DOMAIN_BASE_PATH=str_replace("database","",$filepath);
